@@ -13,5 +13,3 @@ It is ideal for local development environments or test projects.
 - Optionally adds a user to the `users` table
 
 !Example script. Needs specific file structure to work.
-
-```bash
